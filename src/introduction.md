@@ -7,4 +7,4 @@ My name is Zach, but most people call me Abyss! I made this wiki to show off all
 
 
 ### Ways to connect with me:
-[X](https://x.com/AbyssGGzX) | [YouTube](https://youtube.com/AbyssGGz) | [Kick](https://kick.com/abyssggz)
+[Github](https://github.com/abyssexe) | [X](https://x.com/AbyssGGzX) | [YouTube](https://youtube.com/@AbyssGGz) | [Kick](https://kick.com/abyssggz)
