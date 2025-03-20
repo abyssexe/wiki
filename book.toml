@@ -1,0 +1,6 @@
+[book]
+authors = ["Zachary Yorks"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Wiki of Abyss 🌌"
